@@ -9,8 +9,8 @@ import (
 const (
 	PageNum    = 1
 	PageSize   = 10
-	GitlabPath = "http://47.97.223.93:81/api/v4"
-	Secret     = "oFmo8xBTeKHLrWScrEhv"
+	GitlabPath = "http://1.1.1.1/api/v4"
+	Secret     = "oFmo8xBTeKHLrWS"
 )
 
 type GitLab struct {
